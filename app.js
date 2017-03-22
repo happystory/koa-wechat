@@ -19,7 +19,6 @@ const config = {
 };
 
 const app = new Koa();
-
 app.use(wechat(config.wechat));
 
 app.listen(3000);

@@ -12,9 +12,12 @@
   "author": "liuyao",
   "license": "ISC",
   "dependencies": {
+    "content-type": "^1.0.2",
     "koa": "^2.2.0",
+    "raw-body": "^2.2.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.0",
-    "sha1": "^1.1.1"
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.17"
   }
 }
